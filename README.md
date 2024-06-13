@@ -17,5 +17,20 @@ Database Setup
 Running the App
    1. Run the app:python3 cli.py
 
-Usage
-   
+
+LIVE SITE
+TECHNOLOGIES
+
+1. Python3
+2. SQLite3
+3. CLI
+
+CONTACT INFORMATION
+
+You can reach me out through:
+1. GITHUB
+2. EMAIL
+3. INSTAGRAM
+
+ LICENSE
+ MT license Copyright (c) 2024.
